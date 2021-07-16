@@ -1,46 +1,46 @@
 body, html {
-	margin: 0;
-	background: #3b3b3b;
-	scroll-behavior:smooth;
+  margin: 0;
+  background: #3b3b3b;
+  scroll-behavior:smooth;
 }
 
 h1 {
-	font-size: 50px;
+  font-size: 50px;
 }
 
 p {
-	font-size: 30px;
+  font-size: 30px;
 }
 
 h1, p {
-	font-family: verdana;
-	color: white;
+  font-family: verdana;
+  color: white;
 }
 
 button {
-	color: white;
-	font-size: 20px;
-	background: #4287f5;
-	padding: 12px;
-	margin: 0px 10px;
-	border-color: transparent;
-	border-radius: 5px;
-	cursor: pointer;
+  color: white;
+  font-size: 20px;
+  background: #4287f5;
+  padding: 12px;
+  margin: 0px 10px;
+  border-color: transparent;
+  border-radius: 5px;
+  cursor: pointer;
 }
 
 button:hover {
-	background: #5865F2;
+  background: #5865F2;
 }
 
 .hero {
-	height: 100vh;
-	justify-content: center;
-	display: flex;
-	align-items: center;
+  height: 100vh;
+  justify-content: center;
+  display: flex;
+  align-items: center;
 }
 
 .center-text {
-	text-align: center;
+  text-align: center;
 }
 
 ::selection{ background:#4fe866 }
